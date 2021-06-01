@@ -334,3 +334,4 @@ void Lagrange_interpolation()
 	}
 	printf("插值点的函数值为：%lf",result);
 }
+//mychange
